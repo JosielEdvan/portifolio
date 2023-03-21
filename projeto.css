@@ -1,0 +1,24 @@
+.logo img{
+    position: absolute;
+width: 545px;
+height: 597px;
+left: 30%;
+top: -190px
+}
+
+body{
+    background-color: #009ae7;
+    
+}
+
+.logo_ar img{
+    position: absolute;
+    top: 300px;
+    right: 72%;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 160px;
+    text-decoration: none;
+}
