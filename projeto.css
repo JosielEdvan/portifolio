@@ -1,20 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+
 .logo img{
     position: absolute;
-width: 545px;
-height: 597px;
+width: 530px;
+height: 550px;
 left: 30%;
-top: -190px
+top: -170px
 }
 
 body{
-    background-color: #009ae7;
+    background-color: rgba(134, 162, 176, 0.5);
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
     
 }
 
 .logo_ar img{
     position: absolute;
-    top: 300px;
-    right: 72%;
+    top: 340px;
+    right: 1600px;
     display: flex ;
     justify-content: space-between;
     list-style-type: none;
@@ -22,3 +28,149 @@ body{
     height: 160px;
     text-decoration: none;
 }
+
+.tex_robotica a{
+    position: absolute;
+    top: 420px;
+    right: 1640px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 160px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.67);
+    border: none;
+}
+
+
+.logo_progweb img{
+    position: absolute;
+    top: 350px;
+    right: 1340px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 130px;
+    text-decoration: none;
+}
+
+.tex_web a{
+    position: absolute;
+    top: 420px;
+    right: 1320px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 160px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.67);
+    border: none;
+}
+
+.design_logo img{
+    position: absolute;
+    top: 350px;
+    right: 1080px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 130px;
+    text-decoration: none;
+}
+
+.tex_design a{
+    position: absolute;
+    top: 420px;
+    right: 1115px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 160px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.67);
+    border: none;
+}
+
+.bdd_logo img{
+    position: absolute;
+    top: 350px;
+    right: 820px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 130px;
+    text-decoration: none;
+}
+
+.tex_bdd a{
+    position: absolute;
+    top: 420px;
+    right: 810px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 160px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.67);
+    border: none;
+}
+
+.redes_logo img{
+    position: absolute;
+    top: 350px;
+    right: 560px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 130px;
+    text-decoration: none;
+}
+
+.tex_redes a{
+    position: absolute;
+    top: 420px;
+    right: 510px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 160px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.67);
+    border: none;
+}
+
+.manutencao_logo img{
+    position: absolute;
+    top: 350px;
+    right: 300px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 130px;
+    text-decoration: none
+}
+
+.tex_manutencao a{
+    position: absolute;
+    top: 420px;
+    right: 240px;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    height: 160px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.67);
+    border: none;
+}
+
