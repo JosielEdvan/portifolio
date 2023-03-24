@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600;700&display=swap');
+
 body{
     background-color: #DDE5E9;
     
@@ -5,13 +7,14 @@ body{
 
 .logo img{
     position: absolute;
-width: 545px;
-height: 597px;
+width: 530px;
+height: 550px;
 left: 30%;
-top: -190px;
+top: -170px
 }
 .sobre_josi a{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
     position: absolute;
 top: 180px ;
 left: 40%;
@@ -26,6 +29,7 @@ left: 40%;
 border-radius: 33px;
 }
 .texto_jo{
+    font-family: 'Josefin Sans', sans-serif;
     position: absolute;
     width: 656px;
     height: 320px;
@@ -61,6 +65,7 @@ background: url(IMG_20221118_235229_338.jpg);
 border-radius: 33px;
 }
 .texto_ja h4{
+    font-family: 'Josefin Sans', sans-serif;
     position: absolute;
     width: 656px;
     height: 320px;
