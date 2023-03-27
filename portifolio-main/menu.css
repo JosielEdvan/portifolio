@@ -1,0 +1,81 @@
+body{
+    background-color: rgba(134, 162, 176, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagem_projeto img{
+
+    position: absolute;
+width: 246px;
+height: 255px;
+left: 500px;
+top: 300px;
+
+background: url(image.png);
+
+}
+.projeto a{
+    position: absolute;
+    top: 550px;
+    right: 65%;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    height: 60px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-decoration: none;
+    color: #000000;
+}
+.imagem_sobre img{
+    position: absolute;
+    width: 220px;
+    height: 226px;
+    left: 1089px;
+    top: 300px;
+    border-radius: 110px;
+}
+
+.sobrenos a{
+    position: absolute;
+    top: 550px;
+    right: 34%;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    height: 60px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-decoration: none;
+    color: #000000;
+
+}
+   /* position: relative;
+    top: 550px;
+    right: 34%;
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    height: 60px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-decoration: none;
+    color:#000000;
+}
+*/
+
+.cabecalho img{
+    position: absolute;
+    width: 1920px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+    background: #1B262C;
+    
+;
+}

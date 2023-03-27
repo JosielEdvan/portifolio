@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600;700&display=swap');
+
+body{
+    background-color: #DDE5E9;
+    
+}
+
+.logo img{
+    position: absolute;
+width: 530px;
+height: 550px;
+left: 30%;
+top: -170px
+}
+.sobre_josi a{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+    position: absolute;
+top: 180px ;
+left: 40%;
+}
+.imagem_cara img{
+    position: absolute;
+    width: 230px;
+    height: 290px;
+    left: 429px;
+    top: 348px;
+    background: url(IMG20211216131433.jpg);
+border-radius: 33px;
+}
+.texto_jo{
+    font-family: 'Josefin Sans', sans-serif;
+    position: absolute;
+    width: 656px;
+    height: 320px;
+    left: 700px;
+    top: 350px;
+
+
+}
+.email-jo a img{
+position: absolute;
+width: 60px;
+height: 60px;
+top: 100px;
+left: -280px;
+
+}
+.insta-jo img{
+position: absolute;
+width: 39px;
+height: 39px;
+top: 110px;
+left: -180px;
+
+}
+.cara_ja img{
+position: absolute;
+width: 230px;
+height: 250px;
+left: 429px;
+top: 1000px;
+
+background: url(IMG_20221118_235229_338.jpg);
+border-radius: 33px;
+}
+.texto_ja h4{
+    font-family: 'Josefin Sans', sans-serif;
+    position: absolute;
+    width: 656px;
+    height: 320px;
+    left: 700px;
+    top: 1000px;
+
+}
+.email-jao img{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 1300px;
+    left: 680px;
+    
+
+}
+.insta-joao img{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 1310px;
+    left: 780px;
+
+}
