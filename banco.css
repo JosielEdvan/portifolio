@@ -1,7 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body{
+    background-color: #DDE5E9;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
 .logo img{
     position: absolute;
 width: 530px;
 height: 550px;
 left: 30%;
 top: -170px
+}
+.bdd img{
+    position: absolute;
+left: 350px;
+top: 200px
+}
+
+.text{
+    font-size: 30px;
+    position: absolute;
+width: 520px;
+height: 80px;
+left: 600px;
+top: 800px
 }

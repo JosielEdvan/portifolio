@@ -8,4 +8,10 @@ height: 550px;
 left: 30%;
 top: -170px
 }
-
+.codigo img{
+    position: absolute;
+    width: 730px;
+    height: 750px;
+    left: 500px;
+    top: 400px
+}

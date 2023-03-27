@@ -12,6 +12,25 @@ height: 550px;
 left: 30%;
 top: -170px
 }
+
+.nomejosi{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 30px;
+top: 327px ;
+left: 37%;
+}
+
+.nome-ja {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 30px;
+top: 975px ;
+left: 37%;
+}
+
 .sobre_josi a{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bolder;
