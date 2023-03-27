@@ -54,6 +54,13 @@ top: 110px;
 left: -180px;
 
 }
+.linkedin img {
+    position: absolute;
+    width: 39px;
+    height: 39px;
+    top: 110px;
+    left: -80px;
+}
 .cara_ja img{
 position: absolute;
 width: 230px;
@@ -89,4 +96,20 @@ border-radius: 33px;
     top: 1310px;
     left: 780px;
 
+}
+.conta h2{
+    font-family: 'Josefin Sans', sans-serif;
+    position: absolute;
+    width: 300px;
+    height: 32px;
+    left: 700px;
+    top: 1200px;
+
+}
+.linker img{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 1310px;
+    left: 880px;
 }
